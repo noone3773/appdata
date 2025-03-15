@@ -3,7 +3,7 @@ Name: AppData
 Version: 1.3.6
 Description: View & Manage Applications Data from your Home Screen
 Section: Tweaks
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 18.3), mobilesubstrate, preferenceloader
 Conflicts:
 Architecture: iphoneos-arm
 Author: Fouad Raheb <support@fouadraheb.com>
